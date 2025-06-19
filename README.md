@@ -1,2 +1,13 @@
-<h1>Live Link https://neotube-a8ee6.web.app</h1>
-![](https://raw.githubusercontent.com/VikramSingh39/YouTube/refs/heads/main/public/b0kji19x4yt20q7dk98f.webp)
+<h3>Live Link: https://neotube-a8ee6.web.app</h3>
+<h3>
+  Tech Use</h43>
+  <ul>
+    <li>React.js</li>
+    <li>Redux for state management</li>
+    <li>Tailwind CSS</li>
+    <li>React Router DOM</li>
+    <li>YouTube API integration</li>
+  </ul>
+
+
+![Image of project](https://github.com/VikramSingh39/YouTube/blob/main/public/youtube.png)
